@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix OURO - Zen Snake",
+  "description": "A calm, beautifully crafted minimalist arcade snake game with wrap-around boundaries, organic growth, and collectible boutique skins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
